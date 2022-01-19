@@ -1,0 +1,635 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\fb65b5679300676c4b212057fbf03284\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\ccf727684daade2a07e49c263ea869fb\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\65174ecf1152b8261a3bb4ac43a74b3b\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\717c6037efacb7bb649b52d9f59c9e49\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\69d78a66773d40d6d4fc68aad2197e7b\jetified-play-services-ads-20.5.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:17:1-67:12
+MERGED from [com.google.android.gms:play-services-ads-base:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d3dfd1e10d4f65328b98a5c714f7e9d2\jetified-play-services-ads-base-20.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\24ea17cb8ed809d19003828d3141c80d\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\97677daca55126c1ed0a665dfdab6dc6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\152beb0020ccdbc4e8c03ef0b5cca4ab\jetified-play-services-appset-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f80daff5119134f5151cb528fc89083b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e33d010e3e8159f71e452e1ccf162a4a\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4fa0577e713303fa82dbefb333fcddcf\jetified-pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f2bebeca849b3c1fc0bf348a9d3c5482\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f0f455c3eb74dc76336ba0014cea2406\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\425b4b4178264b4cd018c58b81a97287\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\653bbf7b0f5a571f9114bf2158205b7a\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\75d76e184f4e0f3187634ef98a454838\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\2833ccf74467ed201bb9e8973fbcecdb\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\1352209ffe6d7d5b9f9bddb35648d9f5\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\85d86ad1681edc5ad46b44e92265cc70\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\12139481c87696c45768f9d6e8bfb4d6\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3d1c017d2133e91a1d2da48acbbbe638\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3360ee1de8b0bb882f31b77b16c16f71\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c954b9dc49d813a57e53fca9fa824039\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\79aa737015f0d852448bfea15461dd2a\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c192972942dc7c37f5c352bf9fa80753\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4627d5b785f27f9d98bde14af8177673\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\60a38d4d881cf67040aa4f44f4a73308\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e3998a6e514d7d80cdcf15de076e5b99\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\b00e05c5496a872f0e85a2965fea390a\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7ee5a11d8d27ceb55cc72af8595d7abe\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3680c274acd94c7cf3057278edbcf200\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\784c11e467e57c700c3e6ecdaaee4197\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\fb65b5679300676c4b212057fbf03284\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\fb65b5679300676c4b212057fbf03284\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-base:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d3dfd1e10d4f65328b98a5c714f7e9d2\jetified-play-services-ads-base-20.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d3dfd1e10d4f65328b98a5c714f7e9d2\jetified-play-services-ads-base-20.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\97677daca55126c1ed0a665dfdab6dc6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\97677daca55126c1ed0a665dfdab6dc6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\152beb0020ccdbc4e8c03ef0b5cca4ab\jetified-play-services-appset-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\152beb0020ccdbc4e8c03ef0b5cca4ab\jetified-play-services-appset-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f80daff5119134f5151cb528fc89083b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f80daff5119134f5151cb528fc89083b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e33d010e3e8159f71e452e1ccf162a4a\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e33d010e3e8159f71e452e1ccf162a4a\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\85d86ad1681edc5ad46b44e92265cc70\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\85d86ad1681edc5ad46b44e92265cc70\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c954b9dc49d813a57e53fca9fa824039\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c954b9dc49d813a57e53fca9fa824039\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+	android:requestLegacyExternalStorage
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:15:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\85d86ad1681edc5ad46b44e92265cc70\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:20:9-28
+	android:icon
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.paradox.pdfreader.viewpdf
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:21:19-42
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:23:9-25:70
+	android:value
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:25:13-67
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:24:13-69
+activity#com.paradox.pdfreader.MainActivity
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\fb65b5679300676c4b212057fbf03284\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\fb65b5679300676c4b212057fbf03284\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\ccf727684daade2a07e49c263ea869fb\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\ccf727684daade2a07e49c263ea869fb\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\65174ecf1152b8261a3bb4ac43a74b3b\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\65174ecf1152b8261a3bb4ac43a74b3b\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\717c6037efacb7bb649b52d9f59c9e49\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\717c6037efacb7bb649b52d9f59c9e49\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\69d78a66773d40d6d4fc68aad2197e7b\jetified-play-services-ads-20.5.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\69d78a66773d40d6d4fc68aad2197e7b\jetified-play-services-ads-20.5.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d3dfd1e10d4f65328b98a5c714f7e9d2\jetified-play-services-ads-base-20.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d3dfd1e10d4f65328b98a5c714f7e9d2\jetified-play-services-ads-base-20.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\24ea17cb8ed809d19003828d3141c80d\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\24ea17cb8ed809d19003828d3141c80d\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\97677daca55126c1ed0a665dfdab6dc6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\97677daca55126c1ed0a665dfdab6dc6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\152beb0020ccdbc4e8c03ef0b5cca4ab\jetified-play-services-appset-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\152beb0020ccdbc4e8c03ef0b5cca4ab\jetified-play-services-appset-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f80daff5119134f5151cb528fc89083b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f80daff5119134f5151cb528fc89083b\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e33d010e3e8159f71e452e1ccf162a4a\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e33d010e3e8159f71e452e1ccf162a4a\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4fa0577e713303fa82dbefb333fcddcf\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4fa0577e713303fa82dbefb333fcddcf\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f2bebeca849b3c1fc0bf348a9d3c5482\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f2bebeca849b3c1fc0bf348a9d3c5482\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f0f455c3eb74dc76336ba0014cea2406\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f0f455c3eb74dc76336ba0014cea2406\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\425b4b4178264b4cd018c58b81a97287\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\425b4b4178264b4cd018c58b81a97287\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\653bbf7b0f5a571f9114bf2158205b7a\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\653bbf7b0f5a571f9114bf2158205b7a\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\75d76e184f4e0f3187634ef98a454838\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\75d76e184f4e0f3187634ef98a454838\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\2833ccf74467ed201bb9e8973fbcecdb\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\2833ccf74467ed201bb9e8973fbcecdb\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\1352209ffe6d7d5b9f9bddb35648d9f5\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\1352209ffe6d7d5b9f9bddb35648d9f5\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\85d86ad1681edc5ad46b44e92265cc70\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\85d86ad1681edc5ad46b44e92265cc70\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\12139481c87696c45768f9d6e8bfb4d6\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\12139481c87696c45768f9d6e8bfb4d6\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3d1c017d2133e91a1d2da48acbbbe638\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3d1c017d2133e91a1d2da48acbbbe638\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3360ee1de8b0bb882f31b77b16c16f71\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3360ee1de8b0bb882f31b77b16c16f71\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c954b9dc49d813a57e53fca9fa824039\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c954b9dc49d813a57e53fca9fa824039\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\79aa737015f0d852448bfea15461dd2a\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\79aa737015f0d852448bfea15461dd2a\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c192972942dc7c37f5c352bf9fa80753\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\c192972942dc7c37f5c352bf9fa80753\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4627d5b785f27f9d98bde14af8177673\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4627d5b785f27f9d98bde14af8177673\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\60a38d4d881cf67040aa4f44f4a73308\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\60a38d4d881cf67040aa4f44f4a73308\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e3998a6e514d7d80cdcf15de076e5b99\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\e3998a6e514d7d80cdcf15de076e5b99\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\b00e05c5496a872f0e85a2965fea390a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\b00e05c5496a872f0e85a2965fea390a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7ee5a11d8d27ceb55cc72af8595d7abe\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7ee5a11d8d27ceb55cc72af8595d7abe\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3680c274acd94c7cf3057278edbcf200\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\3680c274acd94c7cf3057278edbcf200\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\784c11e467e57c700c3e6ecdaaee4197\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\784c11e467e57c700c3e6ecdaaee4197\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\69d78a66773d40d6d4fc68aad2197e7b\jetified-play-services-ads-20.5.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Pdfreader\app\src\main\AndroidManifest.xml
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:25:22-76
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:28:5-44:15
+intent
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:31:9-37:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:32:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:34:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:36:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:36:19-41
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:49:9-53:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:52:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:51:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:53:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:50:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:55:9-59:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:57:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:58:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:56:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:61:9-64:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:63:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.5.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\7eea5ce8bc3982f34dbe5966995aae24\jetified-play-services-ads-lite-20.5.0\AndroidManifest.xml:62:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\353384c8cf4d8d76cdab79595116bccd\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\d1ef69865985df7d732fb7dfe5d924c3\jetified-play-services-base-17.6.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\9ebaa98ddef6c83f7281ec9943367874\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\995f5be264355abad18ac7bec1e7dcf4\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\149f20d81f95b24de76edf3f3b6a1498\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\4714aee5ecb3f9f1177a7c52b55293a2\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\83bc47a0d78403a163def5fd657c6a4a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Arun vs\.gradle\caches\transforms-2\files-2.1\57ade3515fffbc13a2f3ad4e023a6ec6\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
